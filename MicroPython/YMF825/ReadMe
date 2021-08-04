@@ -1,2 +1,0 @@
-Hardware settings:
-In the case of single power mode, insert a bidirectional logic level conversion module between YMF825 and Raspberry Pi Pico. 
